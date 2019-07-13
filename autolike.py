@@ -48,8 +48,7 @@ def setting_input():
               (("Maximal likes in media you will like?\n"
                 "kita akan skip jika jumlah like lebih besar dari inlai "), 100),
               ("kasih delay/detik per satu like agar tidak di curigai ", 10),
-              ("kasih delay/detik per unlike agar tidak di curigai ", 10),
-              ("mau pakai proxy? masukan proxy mu atau kosongkan saja. (tekan enter saja", 'None')]
+              ("kasih delay/detik per unlike agar tidak di curigai ", 10)]
     
     with open(setting, "w") as f:
         while True:
@@ -294,25 +293,11 @@ setting_2 = int(lines[2].strip())
 setting_3 = int(lines[3].strip())
 setting_4 = int(lines[4].strip())
 setting_5 = int(lines[5].strip())
-setting_6 = int(lines[6].strip())
-setting_7 = int(lines[7].strip())
-setting_8 = int(lines[8].strip())
-setting_9 = int(lines[9].strip())
-setting_10 = int(lines[10].strip())
-setting_11 = int(lines[11].strip())
-setting_12 = int(lines[12].strip())
-setting_13 = int(lines[13].strip())
-setting_14 = int(lines[14].strip())
-setting_15 = int(lines[15].strip())
-setting_16 = int(lines[16].strip())
-setting_17 = int(lines[17].strip())
-setting_18 = lines[18].strip()
 
 bot = Bot(
     max_likes_per_day=setting_0,
     max_unlikes_per_day=setting_1,
     max_likes_to_like=setting_5,
-    like_delay=setting_13,
     whitelist_file=whitelist,
     blacklist_file=blacklist,
     stop_words=[
