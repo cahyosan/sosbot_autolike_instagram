@@ -1,0 +1,207 @@
+2019-06-24 18:47:54,574 Instabot Started
+2019-06-24 18:47:58,570 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 18:48:12,112 error, read exception bellow
+2019-06-24 18:48:12,113 global name 'menu_flike' is not defined
+2019-06-24 18:48:16,716 error, read exception bellow
+2019-06-24 18:48:16,718 global name 'menu_flike' is not defined
+2019-06-24 18:50:25,734 Instabot Started
+2019-06-24 18:50:28,514 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 18:50:46,168 Going to like media with hashtag #indonesia.
+2019-06-24 18:50:49,944 Going to like 82 medias.
+2019-06-24 18:53:15,511 Request returns 405 error!
+2019-06-24 18:53:15,512 Error checking for `feedback_required`, response text is not JSON
+2019-06-24 18:53:15,513 Bot stopped. Worked: 0:02:49.780714
+2019-06-24 18:53:15,515 Total requests: 46
+2019-06-24 18:55:41,682 Instabot Started
+2019-06-24 18:55:44,626 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 18:58:13,899 Like followers of: niccgurr.
+2019-06-24 18:58:29,869 Liking user_6484879705's feed:
+2019-06-24 18:58:30,383 Received 18 medias.
+2019-06-24 18:58:30,384 After filtration 8 medias left.
+2019-06-24 18:58:30,385 Going to like 8 medias.
+2019-06-24 18:58:35,484 Liked media 1801338118130209311.
+2019-06-24 18:58:45,346 Liked media 1780557414224244081.
+2019-06-24 18:58:50,671 Liked media 1774596167582494181.
+2019-06-24 18:59:02,456 Liked media 1762059321002503025.
+2019-06-24 18:59:08,945 Liked media 1762059104165363456.
+2019-06-24 18:59:16,931 Liked media 1738464238945772956.
+2019-06-24 18:59:25,413 Liked media 1723968177005834962.
+2019-06-24 18:59:35,872 Liked media 1719618448457337496.
+2019-06-24 18:59:35,895 DONE: Total liked 8 medias.
+2019-06-24 18:59:46,617 Liking user_7080772788's feed:
+2019-06-24 18:59:47,180 Received 16 medias.
+2019-06-24 18:59:47,181 After filtration 1 medias left.
+2019-06-24 18:59:47,181 Going to like 1 medias.
+2019-06-24 18:59:51,681 Liked media 1723770031005223400.
+2019-06-24 18:59:51,731 DONE: Total liked 9 medias.
+2019-06-24 19:00:04,236 Liking user_6128539448's feed:
+2019-06-24 19:00:04,643 Received 10 medias.
+2019-06-24 19:00:04,645 After filtration 3 medias left.
+2019-06-24 19:00:04,647 Going to like 3 medias.
+2019-06-24 19:00:08,156 Liked media 1817876790532398642.
+2019-06-24 19:00:13,952 Liked media 1764067677952622253.
+2019-06-24 19:00:26,839 Liked media 1615614269390639438.
+2019-06-24 19:00:26,891 DONE: Total liked 12 medias.
+2019-06-24 19:00:32,892 Liking user_6411016377's feed:
+2019-06-24 19:00:33,274 Received 6 medias.
+2019-06-24 19:00:33,275 After filtration 0 medias left.
+2019-06-24 19:00:33,276 None medias received: account is closed or medias have been filtered.
+2019-06-24 19:00:49,282 Liking user_7229176500's feed:
+2019-06-24 19:00:49,868 Received 18 medias.
+2019-06-24 19:00:49,869 After filtration 0 medias left.
+2019-06-24 19:00:49,870 None medias received: account is closed or medias have been filtered.
+2019-06-24 19:01:57,205 Liking user_7698654416's feed:
+2019-06-24 19:01:57,906 Received 18 medias.
+2019-06-24 19:01:57,907 After filtration 18 medias left.
+2019-06-24 19:01:57,908 Going to like 18 medias.
+2019-06-24 19:02:03,381 Liked media 1853005455442734837.
+2019-06-24 19:02:09,668 Liked media 1841316777880412781.
+2019-06-24 19:02:17,656 Liked media 1841302565405621139.
+2019-06-24 19:02:25,233 Liked media 1831903585383037499.
+2019-06-24 19:02:34,959 Liked media 1826118176381317139.
+2019-06-24 19:02:43,703 Liked media 1822965991383395097.
+2019-06-24 19:02:50,068 Liked media 1821811578346161293.
+2019-06-24 19:02:56,873 Liked media 1818283943641069209.
+2019-06-24 19:05:52,413 Request returns 405 error!
+2019-06-24 19:05:52,414 Error checking for `feedback_required`, response text is not JSON
+2019-06-24 19:05:52,416 Bot stopped. Worked: 0:15:26.683298
+2019-06-24 19:05:52,417 Total likes: 20/1000
+2019-06-24 19:05:52,418 Total requests: 198
+2019-06-24 19:37:12,044 Instabot Started
+2019-06-24 19:37:16,053 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 19:37:40,785 Request returns 405 error!
+2019-06-24 19:37:40,786 Error checking for `feedback_required`, response text is not JSON
+2019-06-24 19:37:40,787 Bot stopped. Worked: 0:47:15.054734
+2019-06-24 19:37:40,789 Total likes: 20/1000
+2019-06-24 19:37:40,790 Total requests: 198
+2019-06-24 19:43:06,029 Instabot Started
+2019-06-24 19:43:09,652 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 19:43:27,961 Going to like media with hashtag #indonesia.
+2019-06-24 19:43:31,123 Going to like 84 medias.
+2019-06-24 19:44:37,403 Request returns 400 error!
+2019-06-24 19:44:37,404 Instagram's error message: Media not found or unavailable
+2019-06-24 19:44:37,405 Instagram's error message: {}
+2019-06-24 19:45:31,839 Request returns 400 error!
+2019-06-24 19:45:31,840 Instagram's error message: Media not found or unavailable
+2019-06-24 19:45:31,841 Instagram's error message: {}
+2019-06-24 19:46:59,929 Request returns 400 error!
+2019-06-24 19:46:59,931 Instagram's error message: Media not found or unavailable
+2019-06-24 19:46:59,932 Instagram's error message: {}
+2019-06-24 19:47:25,472 Request returns 405 error!
+2019-06-24 19:47:25,473 Error checking for `feedback_required`, response text is not JSON
+2019-06-24 19:47:25,475 Bot stopped. Worked: 0:56:59.742153
+2019-06-24 19:47:25,476 Total likes: 20/1000
+2019-06-24 19:47:25,477 Total requests: 259
+2019-06-24 20:00:52,466 Instabot Started
+2019-06-24 20:00:56,761 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 20:01:09,669 Going to like media with hashtag #germany.
+2019-06-24 20:01:12,967 Going to like 72 medias.
+2019-06-24 20:09:23,282 Request returns 405 error!
+2019-06-24 20:09:23,289 Error checking for `feedback_required`, response text is not JSON
+2019-06-24 20:09:23,291 Bot stopped. Worked: 1:18:57.558240
+2019-06-24 20:09:23,292 Total likes: 20/1000
+2019-06-24 20:09:23,293 Total requests: 395
+2019-06-24 20:09:28,463 Instabot Started
+2019-06-24 20:09:33,181 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 20:10:03,193 Going to like media with hashtag #nierautomata.
+2019-06-24 20:10:06,872 Going to like 74 medias.
+2019-06-24 20:10:58,699 Liked media 2073321405400506149.
+2019-06-24 20:11:53,012 Request returns 405 error!
+2019-06-24 20:11:53,013 Error checking for `feedback_required`, response text is not JSON
+2019-06-24 20:11:53,015 Bot stopped. Worked: 1:21:27.282140
+2019-06-24 20:11:53,016 Total likes: 21/1000
+2019-06-24 20:11:53,017 Total requests: 433
+2019-06-24 20:34:24,214 Instabot Started
+2019-06-24 20:34:27,809 Request returns 400 error!
+2019-06-24 20:34:27,811 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-06-24 20:34:27,812 Error type: bad_password
+2019-06-24 20:34:27,813 Username or password is incorrect.
+2019-06-24 20:34:48,115 Going to like media with hashtag #kucing.
+2019-06-24 20:34:48,142 error, read exception bellow
+2019-06-24 20:34:48,143 'ds_user_id'
+2019-06-24 20:35:33,955 Instabot Started
+2019-06-24 20:35:53,913 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 20:36:02,513 Going to like media with hashtag #kucing.
+2019-06-24 20:36:06,876 Going to like 85 medias.
+2019-06-24 20:44:32,875 Instabot Started
+2019-06-24 20:44:38,113 Logged-in successfully as 'cahyo_san12'!
+2019-06-24 20:45:07,236 Going to like media with hashtag #kucing.
+2019-06-24 20:45:10,819 Going to like 83 medias.
+2019-07-03 01:31:33,008 Instabot Started
+2019-07-03 14:02:44,284 Instabot Started
+2019-07-03 14:03:02,099 Request returns 400 error!
+2019-07-03 14:03:02,105 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-07-03 14:03:02,107 Error type: bad_password
+2019-07-03 14:03:02,110 Username or password is incorrect.
+2019-07-03 14:03:15,712 Going to like media with hashtag #instagood.
+2019-07-03 14:03:15,741 error, read exception bellow
+2019-07-03 14:03:15,742 'ds_user_id'
+2019-07-03 14:03:48,642 Like following of: nenden._..
+2019-07-03 14:03:48,643 Not logged in!
+2019-07-03 14:03:48,645 error, read exception bellow
+2019-07-03 14:03:48,646 Not logged in!
+2019-07-03 14:03:58,477 Instabot Started
+2019-07-03 14:04:24,105 Request returns 400 error!
+2019-07-03 14:04:24,110 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-07-03 14:04:24,112 Error type: bad_password
+2019-07-03 14:04:24,120 Username or password is incorrect.
+2019-07-03 14:04:37,092 Like followers of: nenden._..
+2019-07-03 14:04:37,093 Not logged in!
+2019-07-03 14:04:37,094 error, read exception bellow
+2019-07-03 14:04:37,095 Not logged in!
+2019-07-03 14:04:46,571 Going to like media with hashtag #cat.
+2019-07-03 14:04:46,592 error, read exception bellow
+2019-07-03 14:04:46,595 'ds_user_id'
+2019-07-03 14:04:57,158 Instabot Started
+2019-07-03 14:05:22,863 Logged-in successfully as 'cahyo_san12'!
+2019-07-03 14:05:33,515 Like followers of: nenden._..
+2019-07-03 14:05:36,467 Error checking for `feedback_required`, response text is not JSON
+2019-07-03 14:05:36,470 nenden._. not found / closed / has no followers.
+2019-07-03 14:05:45,545 Going to like media with hashtag #cat.
+2019-07-03 14:05:58,452 Going to like 83 medias.
+2019-07-03 14:07:09,519 Request returns 400 error!
+2019-07-03 14:07:09,522 Instagram's error message: Media not found or unavailable
+2019-07-03 14:07:09,523 Instagram's error message: {}
+2019-07-03 14:32:31,602 Instabot Started
+2019-07-03 14:32:46,967 Logged-in successfully as 'cahyo_san12'!
+2019-07-03 14:33:50,451 Like followers of: kaawld.
+2019-07-03 14:40:18,386 Liking user_10410514581's feed:
+2019-07-03 14:40:19,030 Received 18 medias.
+2019-07-03 14:40:19,033 After filtration 18 medias left.
+2019-07-03 14:40:19,034 Going to like 18 medias.
+2019-07-03 14:40:25,156 Liked media 2012511493517889225.
+2019-07-03 14:40:30,897 Liked media 2012309841296950405.
+2019-07-03 14:40:40,994 Liked media 2011760248423387045.
+2019-07-03 14:40:50,667 Liked media 2008947074372226536.
+2019-07-03 14:41:08,932 Liked media 2006748115683936987.
+2019-07-03 14:41:14,683 Liked media 2006683028331871681.
+2019-07-03 14:41:24,245 Liked media 2004586386879316769.
+2019-07-03 14:41:33,383 Liked media 2002981856765008614.
+2019-07-03 14:41:37,827 Liked media 2002333775492890505.
+2019-07-03 14:41:52,294 Liked media 2002332511673575094.
+2019-07-03 14:42:03,212 Liked media 2002237560247827727.
+2019-07-03 14:42:08,201 Liked media 2002127240112123852.
+2019-07-03 14:42:16,701 Liked media 2002124206019921475.
+2019-07-03 14:42:24,616 Liked media 2000837234915334513.
+2019-07-03 14:42:35,664 Liked media 2000832014919610252.
+2019-07-03 14:42:50,358 Liked media 2000213793216647091.
+2019-07-03 14:43:33,055 Liked media 2000091933913312592.
+2019-07-03 14:43:40,848 Liked media 2000014702650186223.
+2019-07-03 14:43:40,902 DONE: Total liked 18 medias.
+2019-07-03 14:43:44,343 Liking user_9050133770's feed:
+2019-07-03 14:43:46,478 Received 18 medias.
+2019-07-03 14:43:46,482 After filtration 17 medias left.
+2019-07-03 14:43:46,490 Going to like 17 medias.
+2019-07-03 14:43:52,636 Liked media 2078867557814476041.
+2019-07-03 14:44:03,554 Liked media 2078110292266324079.
+2019-07-03 14:44:07,957 Liked media 2076201969149366953.
+2019-07-03 14:44:26,132 Liked media 2075548816108274747.
+2019-07-03 14:44:55,155 Liked media 2072421974975285921.
+2019-07-07 20:06:06,605 Instabot Started
+2019-07-07 20:06:26,734 Instabot Started
+2019-07-07 20:07:19,251 Instabot Started
+2019-07-07 20:08:00,474 Logged-in successfully as 'cahyo_san12'!
+2019-07-07 20:08:57,425 Instabot Started
+2019-07-07 20:09:47,370 Instabot Started
+2019-07-13 14:13:50,045 Instabot Started
+2019-07-13 15:00:52,315 Instabot Started
